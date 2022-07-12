@@ -1,13 +1,11 @@
-﻿using System.Windows;
-
-namespace ValoAfk
+﻿namespace ValoAfk
 {
     public partial class MainWindow
     {
         public MainWindow()
         {
             InitializeComponent();
-            this.Loaded += new RoutedEventHandler(InitOnTopRight);
+            Loaded += InitOnTopRight;
             SetCurrentConfig();
         }
     }

@@ -21,20 +21,14 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_45708F9DDE8E47A68D33267BEAA54856"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_72AD8FFD88B74027B037A0AADDDF789A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_AD2DE67B4EB6BD2986053F169AD3FF55"
-        "OwnerKey" = "8:_ED335327C3CE4C91B7722DDEE81A7EC0"
+        "MsmKey" = "8:_8490C7848E8D448B97C34CE2A9BA8DDD"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -59,12 +53,6 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_C55E8F8B3B29CDC5161EF047DD5D66D4"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AD2DE67B4EB6BD2986053F169AD3FF55"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -191,26 +179,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45708F9DDE8E47A68D33267BEAA54856"
-            {
-            "SourcePath" = "8:..\\..\\..\\Desktop\\icon.jpg"
-            "TargetName" = "8:icon.jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_0CFEA57FFF964A6CB395A87880DCD8DF"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:TRUE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_72AD8FFD88B74027B037A0AADDDF789A"
             {
             "SourcePath" = "8:..\\ValoAfk\\icon.ico"
@@ -231,21 +199,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AD2DE67B4EB6BD2986053F169AD3FF55"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8490C7848E8D448B97C34CE2A9BA8DDD"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Gu.Wpf.Adorners, Version=2.1.1.0, Culture=neutral, PublicKeyToken=6dfb64f9972bd31d, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_AD2DE67B4EB6BD2986053F169AD3FF55"
-                    {
-                    "Name" = "8:Gu.Wpf.Adorners.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Gu.Wpf.Adorners.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\ValoAfk\\ressources\\banner.jpg"
+            "TargetName" = "8:banner.jpg"
             "Tag" = "8:"
             "Folder" = "8:_0CFEA57FFF964A6CB395A87880DCD8DF"
             "Condition" = "8:"
@@ -258,8 +215,8 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C55E8F8B3B29CDC5161EF047DD5D66D4"
@@ -350,7 +307,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ValoAfk"
         "ProductCode" = "8:{0DABDE4B-2FF8-4D4F-AA32-667709AD7406}"
-        "PackageCode" = "8:{965654F7-39EF-436B-B010-CDCF518175D9}"
+        "PackageCode" = "8:{26C7E140-0211-4317-8ED5-DFD246C76EA7}"
         "UpgradeCode" = "8:{778488E2-B9B2-4125-ABBB-6A468EE2EC90}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -694,7 +651,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_45708F9DDE8E47A68D33267BEAA54856"
+                            "Value" = "8:_8490C7848E8D448B97C34CE2A9BA8DDD"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "ShowProgress"
@@ -745,7 +702,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_45708F9DDE8E47A68D33267BEAA54856"
+                            "Value" = "8:_8490C7848E8D448B97C34CE2A9BA8DDD"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "InstallAllUsersVisible"
@@ -780,7 +737,8 @@
                             "Type" = "3:8"
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
-                            "Setting" = "3:1"
+                            "Setting" = "3:2"
+                            "Value" = "8:_8490C7848E8D448B97C34CE2A9BA8DDD"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "CopyrightWarning"
@@ -791,8 +749,8 @@
                             "Type" = "3:3"
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
-                            "Setting" = "3:1"
-                            "Value" = "8:#1202"
+                            "Setting" = "3:2"
+                            "Value" = "8:No copyright here (❁´◡`❁) , have fun"
                             "DefaultValue" = "8:#1202"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -829,7 +787,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_45708F9DDE8E47A68D33267BEAA54856"
+                            "Value" = "8:_8490C7848E8D448B97C34CE2A9BA8DDD"
                             "UsePlugInResources" = "11:TRUE"
                             }
                         }
@@ -861,7 +819,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_45708F9DDE8E47A68D33267BEAA54856"
+                            "Value" = "8:_8490C7848E8D448B97C34CE2A9BA8DDD"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "UpdateText"

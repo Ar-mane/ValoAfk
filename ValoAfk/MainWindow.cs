@@ -12,8 +12,8 @@ namespace ValoAfk
         private void InitOnTopRight(object sender, RoutedEventArgs e)
         {
             var desktopWorkingArea = SystemParameters.WorkArea;
-            this.Left = desktopWorkingArea.Right - this.Width;
-            this.Top = desktopWorkingArea.Bottom - this.Height;
+            Left = desktopWorkingArea.Right - Width;
+            Top = desktopWorkingArea.Bottom - Height;
         }
 
 
@@ -28,6 +28,7 @@ namespace ValoAfk
                     MessageBox.Show("Are you sure Valorant is running ?");
                     //return; // if we need to block execution in case valorant ist running 
                 }
+
                 _worker.Start(GetCurrentConfig());
             }
 
