@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoAfk", "ValoAfk\ValoAfk.csproj", "{5204C5FD-1E8C-46AC-AE42-24830CD04D35}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ValoAfk-setup", "ValoAfk-setup\ValoAfk-setup.vdproj", "{D5DCA0B8-5F5E-4866-B74E-CB34FB75CCA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5204C5FD-1E8C-46AC-AE42-24830CD04D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5204C5FD-1E8C-46AC-AE42-24830CD04D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5204C5FD-1E8C-46AC-AE42-24830CD04D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5204C5FD-1E8C-46AC-AE42-24830CD04D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DCA0B8-5F5E-4866-B74E-CB34FB75CCA0}.Debug|Any CPU.ActiveCfg = Debug
+		{D5DCA0B8-5F5E-4866-B74E-CB34FB75CCA0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77506520-8703-4F35-A8BF-BD33C2197E7B}
+	EndGlobalSection
+EndGlobal
